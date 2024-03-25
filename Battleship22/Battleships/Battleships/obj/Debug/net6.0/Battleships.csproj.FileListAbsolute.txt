@@ -1,0 +1,14 @@
+C:\Users\KomputerStacjonarny\OneDrive\Pulpit\Battleship22\Battleships\Battleships\obj\Debug\net6.0\Battleships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KomputerStacjonarny\OneDrive\Pulpit\Battleship22\Battleships\Battleships\obj\Debug\net6.0\Battleships.AssemblyInfoInputs.cache
+C:\Users\KomputerStacjonarny\OneDrive\Pulpit\Battleship22\Battleships\Battleships\obj\Debug\net6.0\Battleships.AssemblyInfo.cs
+C:\Users\KomputerStacjonarny\OneDrive\Pulpit\Battleship22\Battleships\Battleships\obj\Debug\net6.0\Battleships.csproj.CoreCompileInputs.cache
+C:\Users\KomputerStacjonarny\OneDrive\Pulpit\Battleship22\Battleships\Battleships\bin\Debug\net6.0\Battleships.exe
+C:\Users\KomputerStacjonarny\OneDrive\Pulpit\Battleship22\Battleships\Battleships\bin\Debug\net6.0\Battleships.deps.json
+C:\Users\KomputerStacjonarny\OneDrive\Pulpit\Battleship22\Battleships\Battleships\bin\Debug\net6.0\Battleships.runtimeconfig.json
+C:\Users\KomputerStacjonarny\OneDrive\Pulpit\Battleship22\Battleships\Battleships\bin\Debug\net6.0\Battleships.dll
+C:\Users\KomputerStacjonarny\OneDrive\Pulpit\Battleship22\Battleships\Battleships\bin\Debug\net6.0\Battleships.pdb
+C:\Users\KomputerStacjonarny\OneDrive\Pulpit\Battleship22\Battleships\Battleships\obj\Debug\net6.0\Battleships.dll
+C:\Users\KomputerStacjonarny\OneDrive\Pulpit\Battleship22\Battleships\Battleships\obj\Debug\net6.0\refint\Battleships.dll
+C:\Users\KomputerStacjonarny\OneDrive\Pulpit\Battleship22\Battleships\Battleships\obj\Debug\net6.0\Battleships.pdb
+C:\Users\KomputerStacjonarny\OneDrive\Pulpit\Battleship22\Battleships\Battleships\obj\Debug\net6.0\Battleships.genruntimeconfig.cache
+C:\Users\KomputerStacjonarny\OneDrive\Pulpit\Battleship22\Battleships\Battleships\obj\Debug\net6.0\ref\Battleships.dll
