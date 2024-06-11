@@ -28,11 +28,19 @@ namespace Battleships
             Console.ReadLine();
             Console.Clear();
 
+            Console.WriteLine("Tura gracza 2");
+            Console.ReadLine();
+            Console.Clear();
+
             Console.Write("tura gracza 2: \n");
 
             player2.ChooseYourShip(player2);
 
             Console.Write("Koniec tury gracza 2: ");
+            Console.ReadLine();
+            Console.Clear();
+
+            Console.WriteLine("Rozpoczęcie strzelania - zaczyna gracz 1");
             Console.ReadLine();
             Console.Clear();
 
@@ -48,7 +56,7 @@ namespace Battleships
                 Console.ReadLine();
                 Console.Clear();
                 Console.Write("tura gracza 2: \n");
-                player2.Attack(player1);
+                gameover = player2.Attack(player1);
                 if (gameover)
                 {
                     Program.Gameover(player2, player1);
