@@ -99,6 +99,7 @@ namespace Battleships
         public bool Attack(Player enemy)
         {
             showEnemyField();
+            showField();
             int[] input = getPlayerInput(true);
 
             if (field[input[0], input[1]] == "P" || field[input[0], input[1]] == "X")
@@ -110,7 +111,10 @@ namespace Battleships
             if (enemy.field[input[0], input[1]] != "O")
             {
                 Console.WriteLine("Pudło :box:");
+                Console.ReadLine();
                 field[input[0], input[1]] = "P";
+                Console.Clear();
+                Console.WriteLine("Runda kolejnego gracza");
                 return false;
             }
             field[input[0], input[1]] = "X";
